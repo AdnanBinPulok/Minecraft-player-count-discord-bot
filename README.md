@@ -1,0 +1,6 @@
+# Minecraft-player-count-discord-bot
+
+```
+Go to the config.json inside settings folder
+and set your bot token
+```
